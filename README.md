@@ -4,7 +4,7 @@
   
 <div align="center">    
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Dinesh+Bhardwaj;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Rushabh+Singh+Baghel;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
     </h1>  
 </div>
 
@@ -12,7 +12,7 @@
 
 Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
-   <a href="https://github.com/dinesh-2047">
+   <a href="https://github.com/rushxbhh">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
  <a href="https://www.linkedin.com/in/dinesh-bhardwaj2047/">
@@ -24,11 +24,11 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 </div>              
 
 <h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
-   🎓 Passionate CSE student at SBBSU, graduating in 2027, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
+   🎓 Passionate CSE student at Medi-Caps University, graduating in 2027, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to collaborate, learn, and positively impact this world!  <br><br>
     📩 Get in touch: 
-    <a href="mailto:dinesh.bhardwaj2047@gmail.com">dinesh07bhardwaj@gmail.com</a>  <br><br>
+    <a href="mailto:rushabhsinghbaghel@gmail.com">rushabhsinghbaghel@gmail.com</a>  <br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
