@@ -4,7 +4,7 @@
   
 <div align="center">    
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Rushabh+Singh+Baghel;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Rushabh+Singh+Baghel;Welcome+to+my+Github+profile!;Aspiring Java developer+and+DSA+;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
     </h1>  
 </div>
 
@@ -39,7 +39,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express&theme=dark" ></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js&theme=dark" ></td>
 </tr>
 
 <tr>
