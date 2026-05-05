@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Anamorphosis%20and%20Isolate.jpg" width="700"/>
+  <img src="assets/Anamorphosis%20and%20Isolate.jpg" width="1000"/>
 </div>
 
 
@@ -7,6 +7,7 @@
 
 <div align="center">
 Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://portfolio-rushabhsinghbaghel.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-FF0000?style=flat-square)](https://drive.google.com/file/d/1tvVvvkIsVGt3-IqJuCThVHLLvpDD6ZJc/view?usp=drivesdk)
@@ -33,7 +34,7 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 ---
 
 ### Stack
-
+<div align="center">
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logoColor=white)
