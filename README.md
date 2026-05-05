@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="assets/Anamorphosis%20and%20Isolate.jpg" width="1000"/>
+  <img 
+    src="assets/Anamorphosis%20and%20Isolate.jpg" 
+    width="650" 
+    style="border-radius:12px;" 
+  />
 </div>
-
 
 ---
 
@@ -34,7 +37,7 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 ---
 
 ### Stack
-<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logoColor=white)
