@@ -3,6 +3,8 @@
 </div>
 
 
+---
+
 <div align="center">
 Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 
