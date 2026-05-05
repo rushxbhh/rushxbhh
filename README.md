@@ -1,11 +1,9 @@
 <div align="center">
-  <img 
-    src="assets/anamorphosis-isolate.jpg" 
-    width="650" 
-    style="border-radius:12px;" 
-  />
+  <img src="assets/Anamorphosis%20and%20Isolate.jpg" width="700"/>
 </div>
 
+
+<div align="center">
 Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square)](https://portfolio-rushabhsinghbaghel.vercel.app/)
