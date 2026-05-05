@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="assets/Anamorphosis%20and%20Isolate.jpg" 
+    src="gargantua-endurance-3840x2160-25445.jpg" 
     width="650" 
     style="border-radius:12px;" 
   />
