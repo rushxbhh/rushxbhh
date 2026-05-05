@@ -1,8 +1,7 @@
 <div align="center">
   <img 
-    src="assets/gargantua-endurance-3840x2160-25445.jpg" 
-    width="650" 
-    style="border-radius:12px;" 
+    src="assets/gargantua-endurance-3840x2160-25445.jpg 
+    style="width:100%; max-width:900px; border-radius:12px;" 
   />
 </div>
 
