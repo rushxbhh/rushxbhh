@@ -1,10 +1,27 @@
 ```
-██████╗ ██╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗  ██╗
-██╔══██╗██║   ██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║  ██║
-██████╔╝██║   ██║███████╗███████║███████║██████╔╝███████║
-██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██╔══██╗██╔══██║
-██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██████╔╝██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+####    ########  ######## ########  ######## ##       
+ ##     ##     ## ##       ##     ## ##       ##       
+ ##     ##     ## ##       ##     ## ##       ##       
+ ##     ########  ######   ########  ######   ##       
+ ##     ##   ##   ##       ##     ## ##       ##       
+ ##     ##    ##  ##       ##     ## ##       ##       
+####    ##     ## ######## ########  ######## ######## 
+
+######## ##     ## ######## ########  ######## ########  #######  ########  ######## 
+   ##    ##     ## ##       ##     ## ##       ##       ##     ## ##     ## ##       
+   ##    ##     ## ##       ##     ## ##       ##       ##     ## ##     ## ##       
+   ##    ######### ######   ########  ######   ######   ##     ## ########  ######   
+   ##    ##     ## ##       ##   ##   ##       ##       ##     ## ##   ##   ##       
+   ##    ##     ## ##       ##    ##  ##       ##       ##     ## ##    ##  ##       
+   ##    ##     ## ######## ##     ## ######## ##        #######  ##     ## ######## 
+
+####    ######## ##     ## ####  ######  ######## 
+ ##     ##        ##   ##   ##  ##    ##    ##    
+ ##     ##         ## ##    ##  ##          ##    
+ ##     ######      ###     ##   ######     ##    
+ ##     ##         ## ##    ##        ##    ##    
+ ##     ##        ##   ##   ##  ##    ##    ##    
+####    ######## ##     ## ####  ######     ##    
 ```
 
 <div align="center">
@@ -38,13 +55,15 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 ### Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111111?style=flat-square&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000?style=flat-square&logo=apachekafka)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 ---
 
