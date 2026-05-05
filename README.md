@@ -17,7 +17,7 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 
 ---
 
-**Currently building** — AI-based applications with Spring Boot &nbsp;·&nbsp; Learning Spring AI & RAG &nbsp;·&nbsp; Aiming to land a good dev job
+**Currently building** — AI-based applications with Spring Boot &nbsp;·&nbsp; Learning Spring AI & RAG &nbsp;·&nbsp; Learning AI-Integration in Backend Development
 
 ---
 
@@ -27,8 +27,8 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 |---------|-------|-------------|
 | **[Momento](https://github.com/rushxbhh)** | Spring Boot · WebSockets · Redis · React | Real-time ephemeral chat. 500+ concurrent users. Rooms self-destruct. |
 | **[Job Orchestrator](https://github.com/rushxbhh)** | Spring Boot · Kafka · MySQL · Microservices | Distributed job processing. 10k+ jobs/day. ~90% less duplicate runs. |
-| **[Blockchain Supply Chain](https://github.com/rushxbhh)** | Spring Boot · WebSockets · MongoDB · SHA-256 | P2P blockchain with PoW mining & ECDSA signing. |
-| **[WorkPilot](https://github.com/rushxbhh)** | Spring Boot · JWT · Spring Security · MySQL | HR system. Response time cut from ~300ms → ~165ms. |
+| **[Blockchain Supply Chain](https://github.com/rushxbhh)** | Spring Boot · WebSockets · MongoDB · SHA-256 · Java Security | P2P blockchain with PoW mining & ECDSA signing. |
+| **[WorkPilot](https://github.com/rushxbhh)** | Spring Boot · JWT · Spring Security · MySQL · ModelMapper · Spring Data JPA | HR system. Response time cut from ~300ms → ~165ms. |
 
 ---
 
