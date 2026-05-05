@@ -66,17 +66,6 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=rushxbhh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=rushxbhh&theme=dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Rome wasn't built in a day.*
