@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://kommodo.ai/i/7UiWy99yK7zVLgkLPoeh" width="600"/>
+  <img 
+    src="assets/anamorphosis-isolate.jpg" 
+    width="650" 
+    style="border-radius:12px;" 
+  />
 </div>
-
-<div align="center">
 
 Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 
