@@ -29,6 +29,8 @@ Java Backend Developer · Aiming for a good dev job · Learning Spring AI & RAG
 | **[Job Orchestrator](https://github.com/rushxbhh)** | Spring Boot · Kafka · MySQL · Microservices | Distributed job processing. 10k+ jobs/day. ~90% less duplicate runs. |
 | **[Blockchain Supply Chain](https://github.com/rushxbhh)** | Spring Boot · WebSockets · MongoDB · SHA-256 · Java Security | P2P blockchain with PoW mining & ECDSA signing. |
 | **[WorkPilot](https://github.com/rushxbhh)** | Spring Boot · JWT · Spring Security · MySQL · ModelMapper · Spring Data JPA | HR system. Response time cut from ~300ms → ~165ms. |
+| **[DocsChain](https://github.com/rushxbhh)** | Spring Boot · JWT · Spring Security · MongoDB · Spring Data JPA · React · CryptoGraphy · IPFS (Pinata) | Blockchain based temper Proof document versioning system |
+
 
 ---
 
